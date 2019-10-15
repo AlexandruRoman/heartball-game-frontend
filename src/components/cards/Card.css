@@ -1,0 +1,28 @@
+img {
+  height: 300px !important;
+  object-fit: cover;
+}
+
+.header {
+  text-align: center;
+}
+
+.p {
+  justify-content: space-evenly;
+  display: flex;
+  font-size: 17px;
+}
+
+.p2 {
+  justify-content: space-evenly;
+  display: flex;
+  font-size: 20px;
+}
+
+.q {
+  display: inline;
+}
+
+.big.label {
+  font-size: 15px !important;
+}

@@ -1,0 +1,25 @@
+.app {
+  background: url(images/field.jpeg) no-repeat center center fixed;
+
+  background-size: 100%;
+  transition: background-size 3s ease-in-out;
+
+  min-height: 100vh;
+  width: 100vw;
+}
+
+
+.zoom {
+  background-size: 130%;
+}
+
+.btn1 {
+  position: absolute;
+  margin: 10px;
+}
+
+.btn2 {
+  position: absolute;
+  margin: 10px;
+  margin-left: 170px;
+}
